@@ -1,6 +1,8 @@
 include
+int mul{
+ret
+}
 int
 print
 print
 }
-
